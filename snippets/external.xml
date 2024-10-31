@@ -41,7 +41,7 @@
   <project path="hardware/broadcom/libbt" name="LineageOS/android_hardware_broadcom_libbt" groups="pdk" remote="LineageOS" />
   <project path="hardware/google/gchips" name="LineageOS/android_hardware_google_gchips" groups="pdk-lassen,pdk-gs-arm" remote="LineageOS" />
   <project path="hardware/google/graphics/common" name="LineageOS/android_hardware_google_graphics_common" groups="pdk-lassen,pdk-gs-arm" remote="LineageOS" />
-  <project path="hardware/google/pixel" name="LineageOS/android_hardware_google_pixel" groups="generic_fs,pixel,pdk-gs-arm" revision="refs/changes/05/401705/2" remote="LineageOS" />
+  <project path="hardware/google/pixel" name="LineageOS/android_hardware_google_pixel" groups="generic_fs,pixel,pdk-gs-arm" remote="LineageOS" />
   <project path="hardware/interfaces" name="LineageOS/android_hardware_interfaces" groups="pdk,sysui-studio" remote="LineageOS" />
   <project path="hardware/libhardware" name="LineageOS/android_hardware_libhardware" groups="pdk" remote="LineageOS" />
   <project path="hardware/lineage/interfaces" name="LineageOS/android_hardware_lineage_interfaces" remote="LineageOS" />
@@ -62,7 +62,7 @@
 
   <!-- Packages -->
   <project path="packages/apps/EmergencyInfo" name="LineageOS/android_packages_apps_EmergencyInfo" remote="LineageOS" />
-  <project path="packages/modules/adb" name="LineageOS/android_packages_modules_adb" groups="pdk" revision="refs/changes/73/401973/1" remote="LineageOS" />
+  <project path="packages/modules/adb" name="LineageOS/android_packages_modules_adb" groups="pdk" remote="LineageOS" />
   <project path="packages/modules/Bluetooth" name="LineageOS/android_packages_modules_Bluetooth" groups="pdk" remote="LineageOS" />
   <project path="packages/modules/common" name="LineageOS/android_packages_modules_common" groups="pdk-cw-fs,pdk-fs" remote="LineageOS" />
   <project path="packages/modules/Virtualization" name="LineageOS/android_packages_modules_Virtualization" groups="pdk" remote="LineageOS" />
@@ -216,7 +216,7 @@
   <project path="vendor/qcom/opensource/audio-hal/st-hal-ar" name="LineageOS/android_vendor_qcom_opensource_audio-hal_st-hal-ar" groups="qcom,lanai-vendor" remote="LineageOS" />
   <project path="vendor/qcom/opensource/commonsys-intf/display" name="LineageOS/android_vendor_qcom_opensource_display-commonsys-intf" groups="qcom,qssi" remote="LineageOS" />
   <project path="vendor/qcom/opensource/commonsys/display" name="LineageOS/android_vendor_qcom_opensource_display-commonsys" groups="qcom,qssi" remote="LineageOS" />
-  <project path="vendor/qcom/opensource/commonsys/fm" name="LineageOS/android_vendor_qcom_opensource_fm-commonsys" groups="qcom,qssi" revision="refs/changes/61/403061/1" remote="LineageOS" />
+  <project path="vendor/qcom/opensource/commonsys/fm" name="LineageOS/android_vendor_qcom_opensource_fm-commonsys" groups="qcom,qssi" remote="LineageOS" />
   <project path="vendor/qcom/opensource/commonsys/wfd" name="LineageOS/android_vendor_qcom_opensource_wfd-commonsys" groups="qcom,lanai-video" remote="LineageOS" />
   <project path="vendor/qcom/opensource/core-utils-sys" name="LineageOS/android_vendor_qcom_opensource_core-utils-sys" groups="qcom,qssi" remote="LineageOS" />
   <project path="vendor/qcom/opensource/core-utils-vendor" name="LineageOS/android_vendor_qcom_opensource_core-utils-vendor" groups="qcom,lanai-vendor" remote="LineageOS" />
