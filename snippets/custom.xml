@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="PixelOS"
-           fetch="ssh://git@github.com/PixelOS-Fifteen"
+      fetch="https://github.com/PixelOS-Fifteen"
            revision="refs/heads/fifteen" />
 
   <remote  name="PixelOS-Gitlab"
